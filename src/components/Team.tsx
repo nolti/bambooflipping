@@ -19,11 +19,11 @@ const team = [
     linkedin: 'https://linkedin.com/in/anagarcia'
   },
   {
-    name: 'Carlos Rodríguez',
-    role: 'Director de renovaciones',
-    description: 'Más de 15 años transformando espacios. Especializado en gestión de proyectos de renovación y coordinación de equipos multidisciplinarios para entregas eficientes.',
-    image: 'https://images.unsplash.com/photo-1600486913747-55e5470d6f40',
-    linkedin: 'https://linkedin.com/in/carlosrodriguez'
+    name: 'Manuel Santamaria',
+    role: 'Especialista Edilicio',
+    description: 'Más de 15 años transformando espacios. Especializado en gestión de proyectos de renovación y coordinación de equipos multidisciplinarios para entregas de obras eficientes.',
+    image: 'https://media.licdn.com/dms/image/v2/D4D03AQG6IolVSAcu4g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689747529234?e=1761177600&v=beta&t=jTn22A4UPTzS0RuYsUeqHP5bYtkSfwtLrxI1FdWFcY0',
+    linkedin: 'https://www.linkedin.com/in/nolti/'
   },
   {
     name: 'María López',
