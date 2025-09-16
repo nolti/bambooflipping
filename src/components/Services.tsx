@@ -13,7 +13,7 @@ const services = [
     number: '02',
     icon: Tool,
     title: 'Renovación integral',
-    description: 'Nuestro equipo de expertos ejecuta renovaciones completas que incluyen mejoras estructurales, actualizaciones de sistemas y acabados modernos. Gestionamos todos los aspectos del proyecto, desde permisos hasta la construcción.',
+    description: 'Nuestro equipo ejecuta renovaciones integrales: realizamos mejoras estructurales, actualizamos instalaciones (luz, agua, gas) y aplicamos acabados detallados. Gestionamos todo el proceso, desde permisos, contrataciones y supervisamos todo durante el proceso constructivo.',
   },
   {
     number: '03',
