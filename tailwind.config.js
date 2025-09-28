@@ -11,6 +11,8 @@ export default {
         secondarypurple: '#4B4358',
         dark: '#282a36', // Background
         darkgrey: '#373946', // Background grey
+        lightprimary: '#6750A4', // Violeta
+        lightprimaryhover: '#4F378B', // Violeta atenuado
         draculacurrent: '#44475a', // Current Line
         draculaselect: '#44475a', // Selection
         draculacomment: '#6272a4', // Comment
@@ -25,8 +27,6 @@ export default {
         draculayellow: '#f1fa8c', // Yellow
         mdprimary: '#D3BCFD',
         mdonprimary: '#38265C',
-        lightprimary: '#6750A4',
-        lightprimaryhover: '#4F378B',
         lightbuttontext: '#28134A',
         lightsocial: '#74688C',
         lightsocialhover: '#6750A4',

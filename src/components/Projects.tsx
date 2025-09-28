@@ -193,7 +193,7 @@ export const Projects = () => {
               </button>
 
               <div className="p-6">
-                <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
+                <h2 className="text-2xl font-medium mb-4 text-lightprimary dark:text-draculacianlight">
                   {projects[selectedProject].title}
                 </h2>
                 
