@@ -10,6 +10,7 @@ export default {
         secondary: '#f8f8f2', // Foreground
         secondarypurple: '#4B4358',
         dark: '#282a36', // Background
+        darkgrey: '#373946', // Background grey
         draculacurrent: '#44475a', // Current Line
         draculaselect: '#44475a', // Selection
         draculacomment: '#6272a4', // Comment

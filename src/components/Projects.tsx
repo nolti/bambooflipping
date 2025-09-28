@@ -182,7 +182,12 @@ export const Projects = () => {
             >
               <button
                 onClick={closeModal}
-                className="absolute top-4 right-4 z-10 p-2 bg-dark/80 text-white rounded-full hover:bg-dark transition-colors"
+                className="
+                  absolute top-2 right-2 z-10 p-1 rounded-full transition-colors 
+                  text-draculared
+                  bg-draculared/35 hover:bg-draculared/100 hover:text-white
+                  dark: text-draculared dark:bg-darkgrey dark:hover:bg-draculared/100
+                "
               >
                 <X size={24} />
               </button>
