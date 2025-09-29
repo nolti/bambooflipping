@@ -19,11 +19,11 @@ const team = [
     linkedin: 'https://www.linkedin.com/in/nolti/'
   },
   {
-    name: 'Ana García',
-    role: 'Especialista en adquisiciones',
-    description: 'Más de 10 años de experiencia en el mercado inmobiliario. Experta en identificar propiedades con alto potencial de retorno y negociación de adquisiciones estratégicas.',
-    image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e',
-    linkedin: 'https://linkedin.com/in/anagarcia'
+    name: 'Ian Bastit',
+    role: 'Asesor de Bienes Raíces',
+    description: 'Más de 17 años concretando transacciones inmobiliarias rentables. Especializado en aumentar el  valor de venta del inmueble y optimizar el retorno de la inversión. Negociación y confección de contratos legales.',
+    image: '/team/ian_bastit.jpg',
+    linkedin: ''
   },
   {
     name: 'María López',
